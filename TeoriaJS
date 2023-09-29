@@ -1,0 +1,8 @@
+Teoria de JavaScript
+Se ejecuta de inmediado y es compilado y fue desarrollado por NetScape en 1995, le da dinamismo a las paginas web
+
+Funcion alert
+  alert("Hola mundo");
+
+tiene dos caracteristicas, es modal lo cual quiere decir que se ejecuta en primer plano y no muestra lo que esta en segundo plano
+la otra es que detiene el flujo del prgrama.
