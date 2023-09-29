@@ -6,3 +6,7 @@ Funcion alert
 
 tiene dos caracteristicas, es modal lo cual quiere decir que se ejecuta en primer plano y no muestra lo que esta en segundo plano
 la otra es que detiene el flujo del prgrama.
+
+La etiqueta para enlazar un archivo JS externos es la siguiente
+
+<script scr="nombre.js"></script>
